@@ -52,4 +52,6 @@ This project demonstrates my ability to:
 - Work with raw sales data.  
 - Build pivot tables and charts in Excel.  
 - Design clear dashboards for business insights.  
-- Communicate findings in a professional portfolio format.  
+- Communicate findings in a professional portfolio format.
+
+- "Despite assumptions, weather and fuel price showed no significant impact on Walmart weekly sales. Store-level performance analysis highlighted that Store 20, 4, and 14 consistently outperform peers. Future dashboards will include forecast models for seasonal trends."
